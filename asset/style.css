@@ -1,0 +1,23 @@
+
+.mt-5{
+	margin-top: 25px;
+}
+.py-3{
+	padding: 10px 0px;
+}
+.py-3 h4{
+	padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+/* label focus color */
+ .input-field input:focus + label {
+   color:#26a69a  !important;
+ }
+ /* label underline focus color */
+ .row .input-field input:focus {
+   border-bottom: 1px solid #26a69a !important;
+   box-shadow: 0 1px 0 0 #26a69a !important
+ }
